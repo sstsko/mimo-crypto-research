@@ -1,0 +1,23 @@
+# === Seed list for mimo-crypto-research ===
+# Format: <chain>:<address_or_symbol>
+# Lines starting with # are comments.
+
+# --- Ethereum mainnet tokens ---
+ethereum:PEPE
+ethereum:SHIB
+ethereum:USDC
+ethereum:USDT
+ethereum:GRT
+
+# --- Base chain tokens ---
+base:DEGEN
+base:BRETT
+
+# --- BSC tokens ---
+bsc:WBNB
+
+# --- Search queries (symbol-only, discoverer will resolve) ---
+search:WIF
+search:BONK
+search:JUP
+search:TIA
